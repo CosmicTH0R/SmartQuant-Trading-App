@@ -1,38 +1,3 @@
-// import React, { useState } from 'react';
-
-// const ResetPassword = () => {
-//   const [email, setEmail] = useState('');
-//   const handleReset = () => {
-//     // Replace with API call
-//     alert(`Password reset link sent to ${email}`);
-//   };
-
-//   return (
-//     <div className="max-w-md mx-auto mt-10 bg-white p-6 rounded shadow">
-//       <h2 className="text-xl font-semibold mb-4">Reset Password</h2>
-//       <input
-//         type="email"
-//         placeholder="Enter your email"
-//         value={email}
-//         onChange={(e) => setEmail(e.target.value)}
-//         className="w-full p-2 border rounded mb-4"
-//       />
-//       <button
-//         onClick={handleReset}
-//         className="w-full bg-blue-600 text-white py-2 rounded hover:bg-blue-700"
-//       >
-//         Send Reset Link
-//       </button>
-//     </div>
-//   );
-// };
-
-// export default ResetPassword;
-
-
-
-
-
 import React, { useState } from 'react';
 
 const ResetPassword = () => {

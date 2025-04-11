@@ -1,24 +1,3 @@
-// import React from 'react'
-// import Navbar from '../components/Navbar'
-// import Footer from '../components/Footer'
-// import HomeMainSection from '../components/HomeMainSection'
-
-// const Home = () => {
-//   return (
-//     <>
-//       <Navbar />
-//       <HomeMainSection />
-//       <Footer />
-//     </>
-//   )
-// }
-
-// export default Home
-
-
-
-
-
 import React from 'react'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'

@@ -1,26 +1,3 @@
-// import { useDispatch, useSelector } from 'react-redux';
-// import { toggleTheme } from '../Redux/ThemeSlice';
-// import { Sun, Moon } from 'lucide-react';
-
-// const ThemeToggle = () => {
-//   const dispatch = useDispatch();
-//   const darkMode = useSelector((state) => state.theme.darkMode);
-
-//   return (
-//     <span
-//       onClick={() => dispatch(toggleTheme())}
-//       className="cursor-pointer hover:text-red-500"
-//     >
-//       {darkMode ? <Moon size={16} /> : <Sun size={16} />}
-//     </span>
-//   );
-// };
-
-// export default ThemeToggle;
-
-
-
-
 import { useDispatch, useSelector } from 'react-redux';
 import { toggleTheme } from '../Redux/ThemeSlice';
 import { Sun, Moon } from 'lucide-react';

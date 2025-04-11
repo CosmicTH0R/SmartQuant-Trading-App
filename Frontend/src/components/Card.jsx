@@ -1,25 +1,3 @@
-// import React from "react";
-
-// const Card = ({ icon, title, description }) => {
-//   return (
-//     <div className="bg-white rounded-2xl shadow-md p-4 text-center flex flex-col items-center gap-2 w-full max-w-[200px]">
-//       <div className="bg-blue-100 text-blue-700 p-3 rounded-full">
-//         {icon}
-//       </div>
-//       <h3 className="font-bold text-lg">{title}</h3>
-//       <p className="text-gray-600 text-sm">{description}</p>
-//     </div>
-//   );
-// };
-
-// export default Card;
-
-
-
-
-
-
-
 import React from "react";
 
 const Card = ({ icon, title, description }) => {
